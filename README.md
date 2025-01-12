@@ -114,7 +114,7 @@ public class TopYearsWithIncidents {
 ```
 
 #### Résultat 
-```
+
 <img width="481" alt="Screenshot 2025-01-12 at 21 51 35" src="https://github.com/user-attachments/assets/5c718368-344a-4d94-9105-8bd3fe4a3371" />
-```
+
 
