@@ -67,18 +67,9 @@ public class IncidentsByService {
 }
 ```
 
-#### Résultat attendu
-```
-+---------+--------------+
-| service |NombreIncidents|
-+---------+--------------+
-| Service A |            2 |
-| Service B |            2 |
-| Service C |            1 |
-+---------+--------------+
-```
+#### Résultat 
 
----
+<img width="481" alt="Screenshot 2025-01-12 at 21 51 05" src="https://github.com/user-attachments/assets/974ad619-9586-4f1a-bc82-b878b653eefb" />
 
 ### 2. **Afficher les deux années avec le plus grand nombre d'incidents**
 
@@ -122,13 +113,8 @@ public class TopYearsWithIncidents {
 }
 ```
 
-#### Résultat attendu
+#### Résultat 
 ```
-+----+--------------+
-|Year|NombreIncidents|
-+----+--------------+
-|2023|             3 |
-|2022|             2 |
-+----+--------------+
+<img width="481" alt="Screenshot 2025-01-12 at 21 51 35" src="https://github.com/user-attachments/assets/5c718368-344a-4d94-9105-8bd3fe4a3371" />
 ```
 
